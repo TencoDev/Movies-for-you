@@ -20,12 +20,18 @@ A sleek and fast movie browsing app built with **React** and **Vite**, using **T
 
 ## 📸 Preview
 
-![App Screenshot](https://postimg.cc/rKMByByy) 
+[Movie-React-App.png](https://postimg.cc/rKMByByy)
 
 ## 📦 Getting Started
 
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/movie-explorer.git
-cd movie-explorer
+  git clone https://github.com/TencoDev/Movies-for-you/
+  cd Movies-for-you
+```
+
+### 2. Run the project
+```bash
+  npm run dev
+```
